@@ -1,0 +1,41 @@
+{
+    "AX": {
+        "center_dac": null, 
+        "center_signal": null, 
+        "high_dac": null, 
+        "high_signal": null, 
+        "low_dac": null, 
+        "low_signal": null, 
+        "points": "QLujOz4hu5ZAu6u0PiCrZUC7tC09laoOQLu8pzvvijdAu8UgPjVDW0C7zZo+TE64QLvWEz6KdmVAu96NPuvlwUC75wY+0NaCQLvvgD8aWpJAu/f5Py+N60C8AHM/Leh0QLwI7D8jVKlAvBFmPykYzkC8Gd8/LMbmQLwiWT8nA0tAvCrSPw0mNEC8M0w/Lu99QLw7xT8TZfhAvEQ+PyK3EUC8TLg/GT8JQLxVMT8Nnq9AvF2rPuxe4UC8ZiQ+kjt/QLxunj5qG5FAvHcXPlgsq0C8f5E+TzoSQLyICj2YVPhAvJCEPjNZUUC8mP09vUHn"
+    }, 
+    "CDD": {
+        "center_dac": null, 
+        "center_signal": null, 
+        "high_dac": null, 
+        "high_signal": null, 
+        "low_dac": null, 
+        "low_signal": null, 
+        "points": "QLujOwAAAABAu6u0ORuNFkC7tC05m40WQLu8pzppU6JAu8UgOq7+ukC7zZo6iBt0QLvWEztfmtNAu96NPCLXukC75wY8mR7uQLvvgD01retAu/f5PbWuDEC8AHM+DeGCQLwI7D4myzpAvBFmPic/5UC8Gd8+LmOpQLwiWT4vc+FAvCrSPiQ2H0C8M0w+KFAdQLw7xT4i/wNAvEQ+PhsYz0C8TLg+IBwiQLxVMT4iPJJAvF2rPhwCJEC8ZiQ9+0DlQLxunj24aglAvHcXPSLXzkC8f5E8FrCzQLyICjtfmtNAvJCEOelToUC8mP05G40W"
+    }, 
+    "H1": {
+        "center_dac": 5.8786453207078253, 
+        "center_signal": 58.680680830281844, 
+        "high_dac": 5.886370771609629, 
+        "high_signal": 43.01293360442169, 
+        "low_dac": 5.8709198698060217, 
+        "low_signal": 43.254167380442233, 
+        "points": "QLujOz2pyjVAu6u0PntZREC7tC0+x514QLu8pz+xbDdAu8UgQJWr3kC7zZpBVTgxQLvWE0HnSO9Au96NQizeTkC75wZCVkm3QLvvgEJlZgtAu/f5QmkwE0C8AHNCapjhQLwI7EJqiwhAvBFmQmoM5kC8Gd9CamUCQLwiWUJqa4dAvCrSQmo4m0C8M0xCalxQQLw7xUJqKC9AvEQ+QmhjVEC8TLhCY5e/QLxVMUJS4YxAvF2rQiixvEC8ZiRB0bsmQLxunkE5EKxAvHcXQGa2AEC8f5E/TOkCQLyICj5gOMFAvJCEPgmbTUC8mP08LvxH"
+    }, 
+    "L2": {
+        "center_dac": null, 
+        "center_signal": null, 
+        "high_dac": null, 
+        "high_signal": null, 
+        "low_dac": null, 
+        "low_signal": null, 
+        "points": "QLujO72IxCFAu6u0PIyz8EC7tC29AVBrQLu8pzyV4E9Au8UgvT8KLEC7zZq9UPj2QLvWEz2Jd8NAu96NvS0mjUC75wY80RrQQLvvgD3KIsRAu/f5PI577kC8AHM9Wu84QLwI7D4L2TdAvBFmvLBgIEC8Gd8+EUWtQLwiWTzz7nhAvCrSPeuI3EC8M0w98FKAQLw7xbxsqRBAvEQ+PbmjlEC8TLi70LZHQLxVMbqVl9ZAvF2rvAH/qkC8ZiQ9F8MNQLxunruNwTtAvHcXvVOkb0C8f5G9tH6AQLyICjy3z0BAvJCEO+cq2EC8mP09CVTJ"
+    }, 
+    "fmt": ">ff", 
+    "reference_detector": "H1", 
+    "reference_isotope": "Ar40"
+}
