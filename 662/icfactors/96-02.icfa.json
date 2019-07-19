@@ -1,7 +1,7 @@
 {
     "AX": {
         "error": 0.00025299488244342317,
-        "fit": "Succeeding",
+        "fit": "Weighted Mean",
         "references": [
             {
                 "exclude": "ok",
