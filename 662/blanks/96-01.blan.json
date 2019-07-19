@@ -5,6 +5,16 @@
         "fit": "Bracketing Interpolate",
         "references": [
             {
+                "exclude": "omit",
+                "record_id": "bu-FC-J-9355",
+                "uuid": "0eacac34-882a-4ae8-8f53-3570ee8498cb"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "bu-FC-J-9356",
+                "uuid": "f99e482e-61e2-4c16-a65a-1a81b6af4d53"
+            },
+            {
                 "exclude": "ok",
                 "record_id": "bu-FC-J-9357",
                 "uuid": "0b81a008-f096-4e3b-a938-16ba59564c60"
@@ -380,6 +390,16 @@
         "error_type": "",
         "fit": "Bracketing Interpolate",
         "references": [
+            {
+                "exclude": "omit",
+                "record_id": "bu-FC-J-9355",
+                "uuid": "0eacac34-882a-4ae8-8f53-3570ee8498cb"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "bu-FC-J-9356",
+                "uuid": "f99e482e-61e2-4c16-a65a-1a81b6af4d53"
+            },
             {
                 "exclude": "ok",
                 "record_id": "bu-FC-J-9357",
